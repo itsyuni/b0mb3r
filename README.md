@@ -13,9 +13,6 @@
   <a href="https://github.com/psf/black">
     <img src="https://img.shields.io/badge/code%20style-black-000000.svg">
   </a>
-  <a href="https://pepy.tech/project/b0mb3r">
-    <img src="https://pepy.tech/badge/b0mb3r">
-  </a>
   <a href="https://github.com/crinny/b0mb3r/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MPL%202.0-yellow.svg">
   </a>
